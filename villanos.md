@@ -2,4 +2,5 @@ Jafar
 Agrava
 Mufasa
 Joker
-Dr dooma
+Dr doom
+dr herrera
